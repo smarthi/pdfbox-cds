@@ -1,0 +1,14 @@
+target
+.classpath
+.project
+.settings
+nbactions.xml
+nb-configuration.xml
+compiler.xml
+misc.xml
+encodings.xml
+workspace.xml
+*.DS_Store
+
+.idea
+*.iml
